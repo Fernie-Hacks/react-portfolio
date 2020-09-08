@@ -2,7 +2,7 @@
 
 ![React Resume Website Template](./portfolio.png)
 
-## <a href="linkMissing">LIVE DEMO</a>
+## <a href="https://lucid-swanson-ca04a3.netlify.app/">LIVE DEMO</a>
 
 ## Description
 This is a React based personal resume website template.
