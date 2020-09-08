@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Fernando Gonzalez",
+    "occupation": "Software Developer at AT&T currently learning React",
+    "description": "A coffee enthusiast, with a passion for building things, music, soccer and basketball.",
+    "image": "me.jpg",
+    "bio": "My name is Fernando, I'm a Software Engineer at AT&T.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "fgonz009@ucr.edu",
+    "phone": "951-7228138",
+    "address": {
+      "street": "Null Street",
+      "city": "Harbor City",
+      "state": "CA",
+      "zip": "90710"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/fgonz009/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/fernando-gonzalez-3b025654/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/the_real_fernie/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Fernie-Hacks",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of California, Riverside",
+        "degree": "B.S. Computer Engineering",
+        "graduated": "June 2015",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "AT&T",
+        "title": "PESAT - Unicorn ",
+        "years": "July 2015 - Present",
+        "description": "Doing stuff"
+      },
+      {
+        "company": "DIRECTV",
+        "title": "Embedded Software Engineer Intern",
+        "years": "June 2013 - September 2013 & June 2014 - September 2014",
+        "description": "Doing stuff"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coding Challenges",
+        "category": "Improve programming skills",
+        "image": "code.png",
+        "url": "https://github.com/Fernie-Hacks/codingChallenges"
+      },
+      {
+        "title": "JaveScript30",
+        "category": "Plain Javascript challenges",
+        "image": "js30.png",
+        "url": "https://github.com/Fernie-Hacks/JavaScript30"
+      },
+      {
+        "title": "Bike Security System",
+        "category": "Security System to protect UCR bicycles.",
+        "image": "bike.png",
+        "url": "https://www.youtube.com/watch?v=Q2LsfYVwQ08&ab_channel=FaranGhias"
+      },
+      {
+        "title": "Catalog",
+        "category": "App with a catalog menu list that can be updated",
+        "image": "catalog.png",
+        "url": "https://github.com/Fernie-Hacks/catalogProject"
+      },
+      {
+        "title": "Neighborhood App",
+        "category": "App showing locations around me",
+        "image": "neighbor.png",
+        "url": "https://github.com/Fernie-Hacks/neighborhood-Map"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
