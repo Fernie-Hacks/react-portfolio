@@ -4,6 +4,8 @@
 
 ## <a href="https://lucid-swanson-ca04a3.netlify.app/">LIVE DEMO</a>
 
+## Build Status
+
 ## Description
 This is a React based personal resume website template.
 
