@@ -2,7 +2,7 @@
   "main": {
     "name": "Fernando Gonzalez",
     "occupation": "Software Developer at AT&T currently learning React",
-    "description": "A coffee enthusiast, with a passion for building things, music, soccer and basketball.",
+    "description": "A coffee enthusiast, with a passion for music, soccer, basketball, and building thing.",
     "image": "me.jpg",
     "bio": "My name is Fernando, I'm a Software Engineer at AT&T.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -65,27 +65,35 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Java",
         "level": "100%"
       },
       {
+        "name": "C/C++",
+        "level": "90%"
+      },
+      {
+        "name": "Go",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
         "name": "CSS",
-        "level": "95%"
+        "level": "65%"
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "95%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "Couchbase",
         "level": "80%"
       }
     ]
