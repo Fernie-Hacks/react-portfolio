@@ -8,7 +8,7 @@
 
 ## Description
 
-This is a React based personal resume website template.
+This is a React based personal resume website template, meant to be clone and modified in order to make it you own.
 
 ## Make it Your Own!
 
