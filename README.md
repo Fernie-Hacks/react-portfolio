@@ -6,6 +6,8 @@
 
 ## Build Status
 
+[![Build Status](http://2fab8c8a4426.ngrok.io/buildStatus/icon?job=react-portfolio-pipeline)](http://2fab8c8a4426.ngrok.io/job/react-portfolio-pipeline/)
+
 ## Description
 
 This is a React based personal resume website template, meant to be clone and modified in order to make it you own. Insctruction can be found under the [Procedure](#procedure) section.
